@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-TEST
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilias07&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
