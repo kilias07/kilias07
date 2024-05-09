@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Kamil and I am currently looking for a job in frontend full-stack JavaScript technologies.
+## I'm Kamil and I am Frontend dev in The Story.
 <!--
 **kilias07/kilias07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
