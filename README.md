@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Kamil and I am Frontend dev at The Story.
+## I'm Kamil and I am Frontend dev at the rigby.
 <!--
 **kilias07/kilias07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
